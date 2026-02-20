@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-10-05-MIMIC-number-1
 excerpt: ''
 date: 2025-10-05
-venue: 'Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering'
+venue: '2025 40th IEEE/ACM International Conference on Automated Software Engineering (ASE)'
 paperurl: 'https://arxiv.org/pdf/2510.01635'
 projecturl: 'https://mimic-persona.github.io/MIMIC-Home-Page/'
 authors: [Yifei Chen, Sarra Habchi, Lili Wei]
